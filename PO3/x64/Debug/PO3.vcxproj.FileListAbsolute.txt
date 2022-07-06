@@ -1,0 +1,2 @@
+D:\Programiki\C++\PO\Rozwiazania\PO3\x64\Debug\PO3.exe
+D:\Programiki\C++\PO\Rozwiazania\PO3\x64\Debug\PO3.pdb
